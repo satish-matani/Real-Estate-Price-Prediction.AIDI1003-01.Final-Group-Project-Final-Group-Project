@@ -1,6 +1,7 @@
 
 # Real Estate Price Prediction  
 **Course**: AIDI 1003-01 - Machine Learning Framework
+
 **Team Members**:  
 - **Satish Kumar** (200574904)  
 - **Dhyan Trivedi** (200565531)  
