@@ -1,6 +1,6 @@
 
 # Real Estate Price Prediction  
-**Course**: AIDI 1003-01  
+**Course**: AIDI 1003-01 - Machine Learning Framework
 **Team Members**:  
 - **Satish Kumar** (200574904)  
 - **Dhyan Trivedi** (200565531)  
@@ -64,22 +64,14 @@ Developed a RESTful API using Flask to predict house prices based on user-provid
 
 ```plaintext  
 Real_Estate_Price_Prediction/  
-├── data/  
-│   ├── train.csv          # Training dataset  
-│   ├── test.csv           # Testing dataset  
-│   ├── data_description.txt  # Detailed feature descriptions  
-├── notebooks/  
-│   ├── eda.ipynb           # EDA and feature exploration  
-│   ├── model_training.ipynb # Training and hyperparameter tuning  
-├── src/  
-│   ├── preprocess.py      # Data preprocessing scripts  
-│   ├── train_model.py     # Model training and saving  
-│   ├── app.py             # Flask app for deployment  
-├── reports/  
-│   ├── proposal.pdf       # Initial project proposal  
-│   ├── final_report.pdf   # Final report summarizing findings  
+├── train.csv          # Training dataset
+├── test.csv           # Testing dataset 
+├── data_description.txt  # Detailed feature descriptions 
+├── Real Estate Price Prediction feature selection.ipynb           # EDA and feature exploration and Training and hyperparameter tuning  
+├── app.py             # Flask app for deployment  
+├── Real Estate Price Prediction project proposal.pdf       # Initial project proposal  
+├── Real_Estate_Price_Prediction.pptx   # Final report summarizing findings  
 ├── README.md              # Project documentation (this file)  
-└── requirements.txt       # Dependencies  
 ```  
 
 ---
@@ -99,12 +91,6 @@ Real_Estate_Price_Prediction/
 ---
 
 ## How to Run  
-
-### Prerequisites  
-Ensure the following dependencies are installed:  
-```bash  
-pip install -r requirements.txt  
-```  
 
 ### Steps  
 1. Clone the repository:  
